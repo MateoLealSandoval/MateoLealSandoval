@@ -1,7 +1,5 @@
 ![Header](img/header.png)
 
-
-# 👋 Hola, soy Mateo Leal  
 ### Líder Técnico Full‑Stack | Ingeniero DevOps | Arquitectura Cloud | Automatización | CI/CD
 
 Soy un ingeniero apasionado por crear soluciones robustas, escalables y seguras. Combino habilidades de **desarrollo full‑stack**, **arquitectura de software**, **automatización DevOps** y **liderazgo técnico**, para guiar equipos hacia entregas rápidas, confiables y de alto impacto.
