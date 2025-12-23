@@ -57,7 +57,7 @@ Mi objetivo es construir plataformas modernas y optimizadas que conecten negocio
 ## 📫 Conecta conmigo
 
 - **LinkedIn:**[LinkedIn](https://www.linkedin.com/in/mateo-leal-sandoval) 
-- **Email:** [mlealsandoval@gmail.com]  
+- **Email:** [mlealsandoval@gmail.com](mlealsandoval@gmail.com)
 - **Portafolio Web (pronto):** En construcción 🚧  
 
 ---
