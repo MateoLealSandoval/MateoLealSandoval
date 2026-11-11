@@ -1,27 +1,37 @@
 ![Header](img/header.png)
 
-<p><strong>Líder técnico</strong> y <strong>desarrollador Full Stack</strong> con más de 7 años de experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas empresariales escalables y eficientes. Cuento con certificado <strong>Scrum Master</strong> y Diplomado en <strong>Gestión de Proyectos</strong>. </p>
+**Líder técnico DevOps** con más de 9 años de experiencia en desarrollo de software y más de 4 liderando equipos de hasta 15 personas en el sector financiero. Diseño plataformas en **Azure y Kubernetes**, automatizo la entrega con **CI/CD** e **infraestructura como código**, y construyo equipos que entregan con calidad. Certificado **Scrum Master** y Diplomado en **Gestión de Proyectos**.
 
-# 🚀 **Habilidades Técnicas**
+# 🎯 **En qué trabajo hoy**
 
-- **Lenguajes & Frameworks:** Node.js, Angular, React, JavaScript, TypeScript, Python y PHP.
-- **Bases de Datos:** Oracle, MySQL, PostgreSQL y MongoDB.
-- **DevOps & Cloud:** Jenkins, Docker, Openshift, Azure, AWS, Git, Bitbucket, Jira y Sonar
-- **Metodologías ágiles:** Scrum y Kanban.
-- **Análisis de datos:** Tableau, KNIME, Excel Avanzado y Python.
+- Lidero el desarrollo en **NEXA BPO**, donde diseñé una **Fábrica de Software Inteligente** sobre Azure: capacidades digitales reutilizables, pipelines con quality gates y gobierno técnico de AKS.
+- Estoy migrando flujos de entrega de Azure DevOps a **GitHub Enterprise** con GitHub Actions.
+- Sigo profundizando en **DevOps y Cloud** (Platzi) y en inglés.
+
+# 📈 **Resultados que me enorgullecen**
+
+- **99,5 %** de disponibilidad en sistemas bancarios críticos (Citibank, vía TCS).
+- **-50 %** en tiempos de despliegue y **-60 %** en errores en producción con una estrategia DevOps (Jenkins, Docker, OpenShift).
+- **-90 %** de intervención manual con más de 30 APIs REST que automatizaron operaciones bancarias.
+- **+15 pipelines** de CI/CD con GitHub Actions y Azure DevOps, con **-65 %** en tiempo de despliegue.
+
+# 🚀 **Habilidades técnicas**
+
+- **Nube y DevOps:** Azure, AKS, Kubernetes, OpenShift, Docker, Terraform, GitHub Actions, Azure DevOps, Jenkins, Ansible.
+- **Observabilidad y calidad:** Prometheus, Grafana, SLOs/SLIs, SonarQube, OPA Gatekeeper, Network Policies.
+- **Desarrollo y APIs:** .NET Core, Node.js, TypeScript, REST, microservicios, arquitectura orientada a eventos, Angular, React.
+- **Bases de datos:** Oracle, PostgreSQL, MySQL, MongoDB, Redis.
+- **Liderazgo:** gobierno técnico, mentoría, Scrum y Kanban, gestión de backlog en Jira.
+- **También uso:** Python para automatización, y conocimientos básicos de AWS.
 
 # 🌐 **Idiomas**
 
-- **Español:** Nativo.
-- **Ingles:** B2 (Mejorando).
+- **Español:** nativo.
+- **Inglés:** B2.
 
-# 📫 **Contáctame**:
-- ✉️ mlealsandoval@gmail.com
+# 📫 **Contáctame**
+
+- ✉️ [mlealsandoval@gmail.com](mailto:mlealsandoval@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mateo-leal-sandoval)
 
 ![Fin](img/fin.png)
-
-<!---
-MateoLealSandoval/MateoLealSandoval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
